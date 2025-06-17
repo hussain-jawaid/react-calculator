@@ -4,7 +4,7 @@ A clean and functional calculator built with React and Tailwind CSS. It supports
 
 ## Live Demo
 
-[Click here to view the live demo](https://your-live-demo-link.com)
+[Click here to view the live demo](https://react-calculator-tan-eta.vercel.app)
 
 ## Tools & Technologies
 
